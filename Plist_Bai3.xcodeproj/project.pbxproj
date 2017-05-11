@@ -14,6 +14,7 @@
 		DF729EE31EC444D500F0B292 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF729EE11EC444D500F0B292 /* LaunchScreen.storyboard */; };
 		DF729EEE1EC444D500F0B292 /* Plist_Bai3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF729EED1EC444D500F0B292 /* Plist_Bai3Tests.swift */; };
 		DF729EF91EC444D500F0B292 /* Plist_Bai3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF729EF81EC444D500F0B292 /* Plist_Bai3UITests.swift */; };
+		DF729F071EC4480000F0B292 /* mydata.plist in Resources */ = {isa = PBXBuildFile; fileRef = DF729F061EC4480000F0B292 /* mydata.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		DF729EF41EC444D500F0B292 /* Plist_Bai3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Plist_Bai3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF729EF81EC444D500F0B292 /* Plist_Bai3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plist_Bai3UITests.swift; sourceTree = "<group>"; };
 		DF729EFA1EC444D500F0B292 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DF729F061EC4480000F0B292 /* mydata.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = mydata.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				DF729ED81EC444D500F0B292 /* AppDelegate.swift */,
 				DF729EDA1EC444D500F0B292 /* ViewController.swift */,
 				DF729EDC1EC444D500F0B292 /* Main.storyboard */,
+				DF729F061EC4480000F0B292 /* mydata.plist */,
 				DF729EDF1EC444D500F0B292 /* Assets.xcassets */,
 				DF729EE11EC444D500F0B292 /* LaunchScreen.storyboard */,
 				DF729EE41EC444D500F0B292 /* Info.plist */,
@@ -234,6 +237,7 @@
 			files = (
 				DF729EE31EC444D500F0B292 /* LaunchScreen.storyboard in Resources */,
 				DF729EE01EC444D500F0B292 /* Assets.xcassets in Resources */,
+				DF729F071EC4480000F0B292 /* mydata.plist in Resources */,
 				DF729EDE1EC444D500F0B292 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
